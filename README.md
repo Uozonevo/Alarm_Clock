@@ -9,3 +9,4 @@ This is a beginners project using the that allows the user to set up an alarm cl
 * Finding the purpose of objects within function and how to use them
 * Defining time based on GMT and system clock
 # Link to code
+https://github.com/Uozonevo/Projects/blob/ed1c1c385ebbc297d00c65006e4c6ac6867fb615/AlarmClock.py 
